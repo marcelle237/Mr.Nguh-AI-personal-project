@@ -1,0 +1,10 @@
+# Ignore le virtual environment
+venv/
+marcel_animal_species_predictor.zip
+animals10/
+model.h5
+kaggle.json
+__pycache__/
+*.pyc
+.DS_Store
+.env
